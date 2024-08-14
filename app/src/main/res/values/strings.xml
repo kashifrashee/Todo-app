@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Todo</string>
+    <string name="back_button">back button</string>
+</resources>
